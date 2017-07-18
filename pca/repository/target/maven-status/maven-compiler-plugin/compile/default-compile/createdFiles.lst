@@ -1,0 +1,5 @@
+com\pca\configuration\HelloWorldConfiguration.class
+com\pca\repository\PersonRepository.class
+com\pca\configuration\WebAppConfig.class
+com\pca\configuration\HibernateConfiguration.class
+com\pca\bean\Person.class
